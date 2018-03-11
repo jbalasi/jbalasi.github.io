@@ -1,5 +1,17 @@
 /* CSS Document */
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+.bodyLayer{
+	background-image: url("tanTextured");
+	z-index:3;
+	margin-bottom:1em;
+	margin-top:1em;
+	margin-left:1.5em;
+	margin-right:1.5em;
+}
+
+body  {
+    background-image: url("redTexture");
+}
 
 .scrollable {
     height: 100px; /* or any value */
